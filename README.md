@@ -209,4 +209,4 @@ MIT License
 ---
 
 ## 👨‍💻 Author
-Zishan
+Imran Azmi
